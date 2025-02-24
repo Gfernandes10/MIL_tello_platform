@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MF0 version="1.1" packageUris="http://schema.mathworks.com/mf0/evolutionsmfdatamodel/R2023b">
+  <evolutions.model.BaseFileInfo type="evolutions.model.BaseFileInfo" uuid="1b305099-656c-4767-adcf-114c0833fbaa">
+    <FileName>asbQuadcopter.slx</FileName>
+    <Folder></Folder>
+    <Folder>mainModels</Folder>
+    <Author>Gabriel Fernandes</Author>
+    <Created>2025-02-22T01:54:53.523141</Created>
+    <Updated>2025-02-22T01:54:53.523661</Updated>
+    <Id>42228ec5-614e-499b-bb83-2cda6eaf1340</Id>
+  </evolutions.model.BaseFileInfo>
+</MF0>

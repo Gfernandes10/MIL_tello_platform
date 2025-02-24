@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MF0 version="1.1" packageUris="http://schema.mathworks.com/mf0/evolutionsmfdatamodel/R2023b">
+  <evolutions.model.BaseFileInfo type="evolutions.model.BaseFileInfo" uuid="39819779-e918-41bc-90cc-b368a4cbf8c8">
+    <FileName>stateEstimator.slx</FileName>
+    <Folder></Folder>
+    <Folder>controller</Folder>
+    <Author>Gabriel Fernandes</Author>
+    <Created>2025-02-22T01:54:53.506885</Created>
+    <Updated>2025-02-22T01:54:53.508439</Updated>
+    <Id>86c5711c-4cae-4686-bcc4-7ab30934c424</Id>
+  </evolutions.model.BaseFileInfo>
+</MF0>

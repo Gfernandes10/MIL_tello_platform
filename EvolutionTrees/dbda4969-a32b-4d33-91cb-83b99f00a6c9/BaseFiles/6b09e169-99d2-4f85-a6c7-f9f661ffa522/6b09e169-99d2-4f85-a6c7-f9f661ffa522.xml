@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MF0 version="1.1" packageUris="http://schema.mathworks.com/mf0/evolutionsmfdatamodel/R2023b">
+  <evolutions.model.BaseFileInfo type="evolutions.model.BaseFileInfo" uuid="ace42676-1d3d-4e30-b94f-28534ba6e274">
+    <FileName>estimatorVars.m</FileName>
+    <Folder></Folder>
+    <Folder>tasks</Folder>
+    <Author>Gabriel Fernandes</Author>
+    <Created>2025-02-22T01:54:53.548952</Created>
+    <Updated>2025-02-22T01:54:53.549472</Updated>
+    <Id>6b09e169-99d2-4f85-a6c7-f9f661ffa522</Id>
+  </evolutions.model.BaseFileInfo>
+</MF0>

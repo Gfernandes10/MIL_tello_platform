@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MF0 version="1.1" packageUris="http://schema.mathworks.com/mf0/evolutionsmfdatamodel/R2023b">
+  <evolutions.model.BaseFileInfo type="evolutions.model.BaseFileInfo" uuid="42d5812b-cc19-40d7-900b-ecb0b0881c78">
+    <FileName>modelParrot.mat</FileName>
+    <Folder></Folder>
+    <Folder>mainModels</Folder>
+    <Author>Gabriel Fernandes</Author>
+    <Created>2025-02-22T01:54:53.528131</Created>
+    <Updated>2025-02-22T01:54:53.528654</Updated>
+    <Id>9e531e16-f2af-4f61-905b-79b944b6ec57</Id>
+  </evolutions.model.BaseFileInfo>
+</MF0>

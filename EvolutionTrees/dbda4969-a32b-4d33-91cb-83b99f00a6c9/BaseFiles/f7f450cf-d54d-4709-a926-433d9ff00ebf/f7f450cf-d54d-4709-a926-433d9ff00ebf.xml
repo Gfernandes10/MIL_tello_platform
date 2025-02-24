@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MF0 version="1.1" packageUris="http://schema.mathworks.com/mf0/evolutionsmfdatamodel/R2023b">
+  <evolutions.model.BaseFileInfo type="evolutions.model.BaseFileInfo" uuid="b54fa5ba-0e92-4aba-b1c5-0608c8a8d490">
+    <FileName>linearAirframe.slx</FileName>
+    <Folder></Folder>
+    <Folder>linearAirframe</Folder>
+    <Author>Gabriel Fernandes</Author>
+    <Created>2025-02-22T01:54:53.516648</Created>
+    <Updated>2025-02-22T01:54:53.517168</Updated>
+    <Id>f7f450cf-d54d-4709-a926-433d9ff00ebf</Id>
+  </evolutions.model.BaseFileInfo>
+</MF0>

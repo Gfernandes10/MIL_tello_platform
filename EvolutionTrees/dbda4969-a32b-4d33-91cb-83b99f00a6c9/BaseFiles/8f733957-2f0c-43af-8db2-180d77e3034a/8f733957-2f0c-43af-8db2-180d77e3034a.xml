@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MF0 version="1.1" packageUris="http://schema.mathworks.com/mf0/evolutionsmfdatamodel/R2023b">
+  <evolutions.model.BaseFileInfo type="evolutions.model.BaseFileInfo" uuid="e2a4b7e2-7115-4f04-8122-47da577ef45f">
+    <FileName>environmentLibrary.slx</FileName>
+    <Folder></Folder>
+    <Folder>libraries</Folder>
+    <Author>Gabriel Fernandes</Author>
+    <Created>2025-02-22T01:54:53.512889</Created>
+    <Updated>2025-02-22T01:54:53.513411</Updated>
+    <Id>8f733957-2f0c-43af-8db2-180d77e3034a</Id>
+  </evolutions.model.BaseFileInfo>
+</MF0>

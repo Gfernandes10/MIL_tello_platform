@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MF0 version="1.1" packageUris="http://schema.mathworks.com/mf0/evolutionsmfdatamodel/R2023b">
+  <evolutions.model.BaseFileInfo type="evolutions.model.BaseFileInfo" uuid="499a3f2d-f871-4b4c-be0e-a5204ab7a6cc">
+    <FileName>sensorCalibration.mat</FileName>
+    <Folder></Folder>
+    <Folder>mainModels</Folder>
+    <Author>Gabriel Fernandes</Author>
+    <Created>2025-02-22T01:54:53.533759</Created>
+    <Updated>2025-02-22T01:54:53.534407</Updated>
+    <Id>0d7c4f78-f7ea-4b0e-8606-13b6766a0af2</Id>
+  </evolutions.model.BaseFileInfo>
+</MF0>

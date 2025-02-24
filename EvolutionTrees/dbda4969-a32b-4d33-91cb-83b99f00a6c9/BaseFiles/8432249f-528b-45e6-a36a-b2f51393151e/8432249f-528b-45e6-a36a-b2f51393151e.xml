@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MF0 version="1.1" packageUris="http://schema.mathworks.com/mf0/evolutionsmfdatamodel/R2023b">
+  <evolutions.model.BaseFileInfo type="evolutions.model.BaseFileInfo" uuid="90f8bf95-3558-4873-86bb-81023fd71518">
+    <FileName>sensorsVars.m</FileName>
+    <Folder></Folder>
+    <Folder>tasks</Folder>
+    <Author>Gabriel Fernandes</Author>
+    <Created>2025-02-22T01:54:53.568394</Created>
+    <Updated>2025-02-22T01:54:53.568899</Updated>
+    <Id>8432249f-528b-45e6-a36a-b2f51393151e</Id>
+  </evolutions.model.BaseFileInfo>
+</MF0>
