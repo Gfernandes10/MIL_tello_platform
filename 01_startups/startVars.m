@@ -9,7 +9,7 @@ initVars = who;
 
 % Variants Conditions
 VSS_COMMAND = 0;       % 0: Signal Editor, 1: Joystick, 2: Pre-saved data, 3: Pre-saved data in a Spreadsheet
-VSS_SENSORS = 0;       % 0: Feedthrough, 1: Dynamics
+VSS_SENSORS = 1;       % 0: Feedthrough, 1: Dynamics
 VSS_ENVIRONMENT = 0;   % 0: Constant, 1: Variable
 VSS_VISUALIZATION = 3; % 0: Scopes, 1: Send values to workspace, 2: FlightGear, 3: AirportScene. 4: AppleHillScene.
 VSS_VEHICLE = 1;       % 0: Linear Airframe, 1: Nonlinear Airframe.
