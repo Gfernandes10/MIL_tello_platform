@@ -113,7 +113,7 @@ assignin('base','linear', linear);
 
 elems(1) = Simulink.BusElement;
 elems(1).Name = 'linear';
-elems(1).Dimensions = 3;
+elems(1).Dimensions = 1;
 elems(1).DimensionsMode = 'Fixed';
 elems(1).DataType = 'Bus: linear';
 elems(1).SampleTime = -1;
@@ -126,7 +126,7 @@ elems(1).Description = '';
 
 elems(2) = Simulink.BusElement;
 elems(2).Name = 'angular';
-elems(2).Dimensions = 3;
+elems(2).Dimensions = 1;
 elems(2).DimensionsMode = 'Fixed';
 elems(2).DataType = 'Bus: angular';
 elems(2).SampleTime = -1;
