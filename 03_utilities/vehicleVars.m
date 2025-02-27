@@ -28,6 +28,16 @@ switch (model)
         Vehicle.Airframe.inertia = diag([0.679e-2 0.679e-2 1.313e-2]);
         
 end
+
+Vehicle.Airframe.k1 = 3.365e-2; %Translationaldragcoefficients
+Vehicle.Airframe.k2 = 3.365e-2; %Translationaldragcoefficients
+Vehicle.Airframe.k3 = 3.365e-2; %Translationaldragcoefficients
+Vehicle.Airframe.k4 = 4.609e-3; %Aerodynamicfrictioncoefficients
+Vehicle.Airframe.k5 = 4.609e-3; %Aerodynamicfrictioncoefficients
+Vehicle.Airframe.k6 = 4.609e-3; %Aerodynamicfrictioncoefficients
+
+
+
 Vehicle.Airframe.d = 0.0624;
 Vehicle.Airframe.xy = Vehicle.Airframe.d*sqrt(2)/2; % For diamond rotor set-up
 Vehicle.Airframe.h = -0.015876;

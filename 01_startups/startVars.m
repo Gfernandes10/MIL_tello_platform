@@ -16,12 +16,12 @@ VSS_VEHICLE = 1;       % 0: Linear Airframe, 1: Nonlinear Airframe.
 
 % Bus definitions
 asbBusDefinitionCommand; 
-asbBusDefinitionSensors;
-asbBusDefinitionEnvironment;
-asbBusDefinitionStates;
+% asbBusDefinitionSensors;
+% asbBusDefinitionEnvironment;
+% asbBusDefinitionStates;
 
 % Enum definitions
-asbEnumDefinition;
+% asbEnumDefinition;
 
 % Sampling rate
 Ts= 0.005;   % Flight Control System sample rate
